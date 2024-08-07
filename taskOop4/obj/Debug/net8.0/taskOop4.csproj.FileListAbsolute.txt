@@ -1,0 +1,14 @@
+E:\learnC#\tasks\taskOop4\taskOop4\obj\Debug\net8.0\taskOop4.GeneratedMSBuildEditorConfig.editorconfig
+E:\learnC#\tasks\taskOop4\taskOop4\obj\Debug\net8.0\taskOop4.AssemblyInfoInputs.cache
+E:\learnC#\tasks\taskOop4\taskOop4\obj\Debug\net8.0\taskOop4.AssemblyInfo.cs
+E:\learnC#\tasks\taskOop4\taskOop4\obj\Debug\net8.0\taskOop4.csproj.CoreCompileInputs.cache
+E:\learnC#\tasks\taskOop4\taskOop4\bin\Debug\net8.0\taskOop4.exe
+E:\learnC#\tasks\taskOop4\taskOop4\bin\Debug\net8.0\taskOop4.deps.json
+E:\learnC#\tasks\taskOop4\taskOop4\bin\Debug\net8.0\taskOop4.runtimeconfig.json
+E:\learnC#\tasks\taskOop4\taskOop4\bin\Debug\net8.0\taskOop4.dll
+E:\learnC#\tasks\taskOop4\taskOop4\bin\Debug\net8.0\taskOop4.pdb
+E:\learnC#\tasks\taskOop4\taskOop4\obj\Debug\net8.0\taskOop4.dll
+E:\learnC#\tasks\taskOop4\taskOop4\obj\Debug\net8.0\refint\taskOop4.dll
+E:\learnC#\tasks\taskOop4\taskOop4\obj\Debug\net8.0\taskOop4.pdb
+E:\learnC#\tasks\taskOop4\taskOop4\obj\Debug\net8.0\taskOop4.genruntimeconfig.cache
+E:\learnC#\tasks\taskOop4\taskOop4\obj\Debug\net8.0\ref\taskOop4.dll

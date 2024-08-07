@@ -1,0 +1,14 @@
+E:\learnC#\tasks\taskOop4\taskOop4WithGeneric\obj\Debug\net8.0\taskOop4WithGeneric.GeneratedMSBuildEditorConfig.editorconfig
+E:\learnC#\tasks\taskOop4\taskOop4WithGeneric\obj\Debug\net8.0\taskOop4WithGeneric.AssemblyInfoInputs.cache
+E:\learnC#\tasks\taskOop4\taskOop4WithGeneric\obj\Debug\net8.0\taskOop4WithGeneric.AssemblyInfo.cs
+E:\learnC#\tasks\taskOop4\taskOop4WithGeneric\obj\Debug\net8.0\taskOop4WithGeneric.csproj.CoreCompileInputs.cache
+E:\learnC#\tasks\taskOop4\taskOop4WithGeneric\bin\Debug\net8.0\taskOop4WithGeneric.exe
+E:\learnC#\tasks\taskOop4\taskOop4WithGeneric\bin\Debug\net8.0\taskOop4WithGeneric.deps.json
+E:\learnC#\tasks\taskOop4\taskOop4WithGeneric\bin\Debug\net8.0\taskOop4WithGeneric.runtimeconfig.json
+E:\learnC#\tasks\taskOop4\taskOop4WithGeneric\bin\Debug\net8.0\taskOop4WithGeneric.dll
+E:\learnC#\tasks\taskOop4\taskOop4WithGeneric\bin\Debug\net8.0\taskOop4WithGeneric.pdb
+E:\learnC#\tasks\taskOop4\taskOop4WithGeneric\obj\Debug\net8.0\taskOop4WithGeneric.dll
+E:\learnC#\tasks\taskOop4\taskOop4WithGeneric\obj\Debug\net8.0\refint\taskOop4WithGeneric.dll
+E:\learnC#\tasks\taskOop4\taskOop4WithGeneric\obj\Debug\net8.0\taskOop4WithGeneric.pdb
+E:\learnC#\tasks\taskOop4\taskOop4WithGeneric\obj\Debug\net8.0\taskOop4WithGeneric.genruntimeconfig.cache
+E:\learnC#\tasks\taskOop4\taskOop4WithGeneric\obj\Debug\net8.0\ref\taskOop4WithGeneric.dll
